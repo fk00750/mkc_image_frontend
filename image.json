@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "format": "jpg",
+    "thumbnail": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dGh1bWJuYWlsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "link": "https://unsplash.com/photos/niUkImZcSP8",
+    "dimension": "1920x1080",
+    "size": "1024x768",
+    "purpose": "thumbnail",
+    "originalName": "image1.jpg",
+    "date": "2023-05-10"
+  },
+  {
+    "id": 2,
+    "format": "png",
+    "thumbnail": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGh1bWJuYWlsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "link": "https://unsplash.com/photos/h0Vxgz5tyXA",
+    "dimension": "800x600",
+    "size": "800x600",
+    "purpose": "banner",
+    "originalName": "image2.png",
+    "date": "2023-05-11"
+  },
+  {
+    "id": 3,
+    "format": "gif",
+    "thumbnail": "https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGh1bWJuYWlsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "link": "https://unsplash.com/photos/qjCHPZbeXCQ",
+    "dimension": "1280x720",
+    "size": "640x480",
+    "purpose": "background",
+    "originalName": "image3.gif",
+    "date": "2023-05-12"
+  }
+]
