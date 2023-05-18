@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "format": "JPEG",
+    "thumbnail": "https://images.pexels.com/photos/16814271/pexels-photo-16814271.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    "link": "image.jpg",
+    "dimension": "800x600",
+    "sizeInKb": 120,
+    "purpose": "Marketing",
+    "name": "Image 1",
+    "date": "2023-05-17"
+  },
+  {
+    "id": 2,
+    "format": "PNG",
+    "thumbnail": "https://images.pexels.com/photos/14934585/pexels-photo-14934585.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    "link": "image.png",
+    "dimension": "1024x768",
+    "sizeInKb": 180,
+    "purpose": "Website",
+    "name": "Image 2",
+    "date": "2023-05-18"
+  },
+  {
+    "id": 3,
+    "format": "JPEG",
+    "thumbnail": "https://images.pexels.com/photos/16599084/pexels-photo-16599084.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    "link": "image3.jpg",
+    "dimension": "1200x800",
+    "sizeInKb": 250,
+    "purpose": "Social Media",
+    "name": "Image 3",
+    "date": "2023-05-19"
+  },
+  {
+    "id": 4,
+    "format": "PNG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/05/13/17/43/water-7991010__340.jpg",
+    "link": "image4.png",
+    "dimension": "900x600",
+    "sizeInKb": 150,
+    "purpose": "Print",
+    "name": "Image 4",
+    "date": "2023-05-20"
+  },
+  {
+    "id": 5,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/04/03/03/20/plant-7895897__340.jpg",
+    "link": "image5.pdf",
+    "dimension": "1600x1200",
+    "sizeInKb": 300,
+    "purpose": "Marketing",
+    "name": "Image 5",
+    "date": "2023-05-21"
+  },
+  {
+    "id": 6,
+    "format": "PNG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/05/07/11/49/oilseed-rape-7976212__340.jpg",
+    "link": "image6.png",
+    "dimension": "800x800",
+    "sizeInKb": 200,
+    "purpose": "Website",
+    "name": "Image 6",
+    "date": "2023-05-22"
+  },
+  {
+    "id": 7,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/03/16/22/44/flowers-7857645__340.png",
+    "link": "image7.jpg",
+    "dimension": "1280x720",
+    "sizeInKb": 220,
+    "purpose": "Social Media",
+    "name": "Image 7",
+    "date": "2023-05-23"
+  },
+  {
+    "id": 8,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/01/23/16/22/leaves-7739108_640.jpg",
+    "link": "image8.jpg",
+    "dimension": "1920x1080",
+    "sizeInKb": 400,
+    "purpose": "Print",
+    "name": "Image 8",
+    "date": "2023-05-24"
+  },
+  {
+    "id": 9,
+    "format": "PNG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/03/21/18/07/monstera-7867873__340.jpg",
+    "link": "image9.pdf",
+    "dimension": "1500x1000",
+    "sizeInKb": 280,
+    "purpose": "Marketing",
+    "name": "Image 9",
+    "date": "2023-05-25"
+  },
+  {
+    "id": 10,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/05/12/01/26/soil-7987444__340.jpg",
+    "link": "image10.jpg",
+    "dimension": "1440x900",
+    "sizeInKb": 350,
+    "purpose": "Website",
+    "name": "Image 10",
+    "date": "2023-05-26"
+  },
+  {
+    "id": 11,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/05/04/02/24/bali-7969001_1280.jpg",
+    "link": "image11.jpg",
+    "dimension": "1080x720",
+    "sizeInKb": 180,
+    "purpose": "Social Media",
+    "name": "Image 11",
+    "date": "2023-05-27"
+  },
+  {
+    "id": 12,
+    "format": "PNG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/02/15/19/28/sea-7792564_640.jpg",
+    "link": "image12.pdf",
+    "dimension": "800x1200",
+    "sizeInKb": 250,
+    "purpose": "Print",
+    "name": "Image 12",
+    "date": "2023-05-28"
+  },
+  {
+    "id": 13,
+    "format": "JPEG",
+    "thumbnail": "https://cdn.pixabay.com/photo/2023/05/08/13/24/laptop-7978588_640.jpg",
+    "link": "image13.jpg",
+    "dimension": "1280x960",
+    "sizeInKb": 300,
+    "purpose": "Marketing",
+    "name": "Image 13",
+    "date": "2023-05-29"
+  } 
+]
