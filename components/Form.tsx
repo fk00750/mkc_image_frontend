@@ -141,11 +141,11 @@ function Form() {
             onChange={(event) => setFormat(event.target.value)}
           >
             <option value="">Select Format</option>
-            <option value="JPEG">JPEG</option>
-            <option value="PNG">PNG</option>
-            <option value="GIF">GIF</option>
-            <option value="WEBP">WEBP</option>
-            <option value="PDF">PDF</option>
+            <option value="jpeg">JPEG</option>
+            <option value="png">PNG</option>
+            <option value="gif">GIF</option>
+            <option value="webp">WEBP</option>
+            <option value="pdf">PDF</option>
           </select>
         </div>
         <div
