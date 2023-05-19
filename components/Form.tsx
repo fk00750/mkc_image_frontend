@@ -7,8 +7,7 @@ import {
   handleDrop,
   handleFileChange,
   handleFormSubmit,
-} from "@/utils/formHandler";
-import axios from "axios";
+} from "../utils/formHandler";
 import React, { SetStateAction, useState } from "react";
 import { FaClipboard } from "react-icons/fa";
 
@@ -20,9 +19,8 @@ function Form() {
   // form data
   const [use, setUse] = useState("");
   const [format, setFormat] = useState("");
-  const [image, setImage] = useState<File | null>(null);
-  const [imageLink, setImageLink] = useState("");
-  const [imageLinkSize, setImageLinkSize] = useState<number | null>(null);
+  const [imageLink, setImageLink] = useState("http://www.example.com/wii741h01.com");
+  const [imageLinkSize, setImageLinkSize] = useState<number | null>(74);
   const [imageSize, setImageSize] = useState<number | null>(null);
 
   // error message
@@ -159,7 +157,7 @@ function Form() {
               src={URL.createObjectURL(droppedImage || selectedFile)}
               alt="Dropped Image"
               className="mx-auto mb-2"
-              style={{ maxHeight: "200px" }}
+              style={{ maxHeight: "84px" }}
             />
           ) : (
             <p>Drag and drop your file here</p>

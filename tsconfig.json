@@ -20,11 +20,7 @@
       }
     ],
     "paths": {
-<<<<<<< HEAD
-      "@/*": ["./src/*"]
-=======
       "@/*": ["./*"]
->>>>>>> 451adf1 (redesign)
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
