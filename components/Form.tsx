@@ -19,8 +19,8 @@ function Form() {
   // form data
   const [use, setUse] = useState("");
   const [format, setFormat] = useState("");
-  const [imageLink, setImageLink] = useState("http://www.example.com/wii741h01.com");
-  const [imageLinkSize, setImageLinkSize] = useState<number | null>(74);
+  const [imageLink, setImageLink] = useState("");
+  const [imageLinkSize, setImageLinkSize] = useState<number | null>(null);
   const [imageSize, setImageSize] = useState<number | null>(null);
 
   // error message
