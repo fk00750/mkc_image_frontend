@@ -33,7 +33,7 @@ function Form() {
 
   return (
     <div
-      className={`form_container ${
+      className={`form_container  ${
         isDragActive ? "border-blue-400" : "border-gray-300"
       } ${isDragActive ? "bg-blue-100" : ""}`}
       onDragOver={(event) => handleDragOver(event)}
@@ -100,7 +100,7 @@ function Form() {
           <input
             type="file"
             id="imageUpload"
-            className="mt-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-green-500 focus:border-green-500"
+            className="mt-1 px-4 py-2 border w-full border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-green-500 focus:border-green-500"
             onChange={(event) =>
               handleFileChange(
                 event,
@@ -122,7 +122,7 @@ function Form() {
           <input
             type="text"
             id="use"
-            className="mt-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-green-500 focus:border-green-500"
+            className="mt-1 w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-green-500 focus:border-green-500"
             value={use}
             onChange={(event) => setUse(event.target.value)}
           />
