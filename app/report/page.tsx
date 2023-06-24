@@ -38,7 +38,7 @@ function ReportPage() {
   useEffect(() => {
     async function fetchData() {
       const response = await axios.get(
-        "http://localhost:8080/v1/images/get-image-report"
+        "http://localhost:3000/v1/images/get-image-report"
       );
       if (response.status === 200) {
         console.log(response);
@@ -49,10 +49,11 @@ function ReportPage() {
     fetchData();
   }, []);
 
+  // why the following react and tailwindcss code giving scrollbar below the page
   return (
     <>
       {isLoading ? (
-        <div className="flex flex-col items-center mx-4">
+        <div className="flex flex-col items-center ">
           <Table ImagesData={currentItems} />
           {/* Pagination */}
           <div className="pagination flex justify-center items-center mt-4">

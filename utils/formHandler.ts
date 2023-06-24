@@ -47,7 +47,7 @@ export const handleFormSubmit = async (
     formData.append("image", selectedFile);
 
     const response = await axios.post(
-      "http://localhost:8080/v1/images/upload-image",
+      "http://localhost:3000/v1/images/upload-image",
       formData
     );
 

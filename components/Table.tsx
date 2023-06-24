@@ -39,7 +39,7 @@ function Table({ ImagesData }: TableProps) {
   };
 
   return (
-    <table className="min-w-full divide-y divide-gray-200 mx-auto">
+    <table className="divide-y divide-gray-200 mx-auto">
       <thead className="bg-green-500 text-white">
         <tr>
           <th scope="col" className="px-6 py-3 text-left font-semibold">

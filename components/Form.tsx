@@ -8,7 +8,7 @@ import {
   handleFileChange,
   handleFormSubmit,
 } from "../utils/formHandler";
-import React, { SetStateAction, useState } from "react";
+import React, { useState } from "react";
 import { FaClipboard } from "react-icons/fa";
 
 function Form() {
